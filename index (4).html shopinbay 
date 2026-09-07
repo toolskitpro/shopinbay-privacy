@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shopinbay Privacy Policy</title>
+<style>
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f6fb;
+    color: #2c2c2c;
+  }
+  .header {
+    background: linear-gradient(135deg, #12225c 0%, #1e3a8a 100%);
+    color: #ffffff;
+    padding: 50px 20px 40px 20px;
+    text-align: center;
+  }
+  .header .logo-badge {
+    display: inline-block;
+    background: #f37021;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 6px 16px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+  }
+  .header h1 {
+    margin: 0;
+    font-size: 32px;
+    font-weight: 700;
+  }
+  .header p.subtitle {
+    margin: 10px 0 0 0;
+    font-size: 15px;
+    color: #cfd8f5;
+  }
+  .container {
+    max-width: 780px;
+    margin: -30px auto 40px auto;
+    background: #ffffff;
+    border-radius: 14px;
+    box-shadow: 0 10px 30px rgba(18, 34, 92, 0.12);
+    padding: 40px 36px 20px 36px;
+    position: relative;
+  }
+  .updated {
+    display: inline-block;
+    background: #eef1fb;
+    color: #1e3a8a;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 6px 14px;
+    border-radius: 20px;
+    margin-bottom: 28px;
+  }
+  h2 {
+    color: #12225c;
+    font-size: 19px;
+    margin-top: 32px;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #f37021;
+    display: inline-block;
+  }
+  p {
+    line-height: 1.7;
+    font-size: 15px;
+    color: #3a3a3a;
+  }
+  ul {
+    line-height: 1.8;
+    font-size: 15px;
+    color: #3a3a3a;
+    padding-left: 20px;
+  }
+  li::marker {
+    color: #f37021;
+  }
+  a {
+    color: #f37021;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .contact-box {
+    background: #fff6ef;
+    border: 1px solid #f9d9bd;
+    border-radius: 10px;
+    padding: 18px 22px;
+    margin: 20px 0 30px 0;
+  }
+  .contact-box p {
+    margin: 0;
+  }
+  .footer {
+    text-align: center;
+    padding: 24px 20px 40px 20px;
+    color: #8a8fa3;
+    font-size: 13px;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="logo-badge">Shopinbay</div>
+  <h1>Privacy Policy</h1>
+  <p class="subtitle">Shop Everything. One Bay.</p>
+</div>
+
+<div class="container">
+  <span class="updated">Last updated: September 6, 2026</span>
+
+  <p>Shopinbay ("we", "our", "us") operates the Shopinbay mobile application and the website shopinbay.com (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.</p>
+
+  <h2>Information We Collect</h2>
+  <p>When you use our app to browse products and place orders, we may collect the following information:</p>
+  <ul>
+    <li>Name, email address, and phone number</li>
+    <li>Shipping and billing address</li>
+    <li>Order history and payment confirmation details (payment processing itself is handled securely by our payment partners; we do not store your card details)</li>
+    <li>Device information and general usage data (such as pages viewed) for app performance purposes</li>
+  </ul>
+
+  <h2>How We Use Your Information</h2>
+  <p>We use the collected information to:</p>
+  <ul>
+    <li>Process and deliver your orders</li>
+    <li>Communicate with you about your orders, shipping updates, and customer support</li>
+    <li>Improve our products, services, and app experience</li>
+    <li>Send promotional offers and updates, if you have opted in to receive them</li>
+  </ul>
+
+  <h2>Data Storage and Security</h2>
+  <p>Your data is processed through our e-commerce platform and stored securely. We take reasonable measures to protect your personal information from unauthorized access, alteration, or disclosure.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>Our app connects to our website (shopinbay.com) to display products and process orders. We do not display third-party advertisements within this app. We may use third-party services for order fulfillment, payment processing, and analytics, each of which has its own privacy practices.</p>
+
+  <h2>Your Rights</h2>
+  <p>You may contact us at any time to request access to, correction of, or deletion of your personal data.</p>
+
+  <h2>Children's Privacy</h2>
+  <p>Our Service is not directed to children under 13. We do not knowingly collect personal information from children under 13.</p>
+
+  <h2>Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.</p>
+
+  <h2>Contact Us</h2>
+  <div class="contact-box">
+    <p>If you have any questions about this Privacy Policy, please contact us at:<br>
+    <a href="mailto:shopinbay24hr@gmail.com">shopinbay24hr@gmail.com</a></p>
+  </div>
+</div>
+
+<div class="footer">
+  &copy; 2026 Shopinbay. All rights reserved.
+</div>
+
+</body>
+</html>
